@@ -62,6 +62,6 @@ The data visualization was carried out on excel. You can interact with the visua
 4.To make teenagers amongst our target audience, we need to do market survey and find out the type of legos that would be more enjoyable to children around that age.
 
 
-![](excel_lego_thanks.jpg)
+![](excel_lego_thanks.png)
 ---
    
